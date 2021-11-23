@@ -45,7 +45,7 @@ SCRIPT_S912_FILE="mk_s912_zyxq.sh"
 SCRIPT_S022X_FILE="mk_s922x_gtking.sh"
 
 # Set make.env related parameters
-WHOAMI_VALUE="flippy"
+WHOAMI_VALUE="hublj"
 OPENWRT_VER_VALUE="auto"
 SW_FLOWOFFLOAD_VALUE="1"
 HW_FLOWOFFLOAD_VALUE="0"
